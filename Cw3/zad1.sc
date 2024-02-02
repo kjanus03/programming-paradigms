@@ -1,0 +1,1 @@
+def f1(f: Int => Int => A): Int = f(2)(2)
